@@ -19,6 +19,12 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: npm install, build, and test
       run: |
+        cd backend
+        npm ci
+        cd ..
+        cd client
+        npm ci
+        cd ..
         npm ci
         npm run start --if-present
         npm test
