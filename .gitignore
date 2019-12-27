@@ -1,0 +1,7 @@
+node_modules/
+/.idea/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/react_fullstack.iml
+/.idea/vcs.xml
