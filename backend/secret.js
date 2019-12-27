@@ -1,5 +1,5 @@
 const secrets = {
-  dbUri: "mongodb://jelo:a9bc839993@ds151382.mlab.com:51382/jelotest"
+  dbUri: "mongodb+srv://shobhitsingh29:yatra@clusterbackend-nypki.mongodb.net/shobhitdb"
 };
 
 const getSecret = key => secrets[key];

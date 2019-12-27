@@ -1,0 +1,24 @@
+{
+  "name": "react_fullstack",
+  "version": "1.0.0",
+  "description": "steps to run the code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"cd backend && node server.js\" \"cd client && npm start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobhitsingh29/react_fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobhitsingh29/react_fullstack/issues"
+  },
+  "homepage": "https://github.com/shobhitsingh29/react_fullstack#readme",
+  "dependencies": {
+    "concurrently": "^5.0.2"
+  }
+}
