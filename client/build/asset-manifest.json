@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react_fullstack1/static/js/main.41b61465.chunk.js",
-    "main.js.map": "/react_fullstack1/static/js/main.41b61465.chunk.js.map",
-    "runtime-main.js": "/react_fullstack1/static/js/runtime-main.68e678a9.js",
-    "runtime-main.js.map": "/react_fullstack1/static/js/runtime-main.68e678a9.js.map",
-    "static/js/2.ce841361.chunk.js": "/react_fullstack1/static/js/2.ce841361.chunk.js",
-    "static/js/2.ce841361.chunk.js.map": "/react_fullstack1/static/js/2.ce841361.chunk.js.map",
-    "index.html": "/react_fullstack1/index.html",
-    "precache-manifest.3b798684b2076b330e15771297a74574.js": "/react_fullstack1/precache-manifest.3b798684b2076b330e15771297a74574.js",
-    "service-worker.js": "/react_fullstack1/service-worker.js",
-    "static/js/2.ce841361.chunk.js.LICENSE": "/react_fullstack1/static/js/2.ce841361.chunk.js.LICENSE"
+    "main.js": "/react_fullstack/static/js/main.a3bed7a3.chunk.js",
+    "main.js.map": "/react_fullstack/static/js/main.a3bed7a3.chunk.js.map",
+    "runtime-main.js": "/react_fullstack/static/js/runtime-main.1d47a226.js",
+    "runtime-main.js.map": "/react_fullstack/static/js/runtime-main.1d47a226.js.map",
+    "static/js/2.ce841361.chunk.js": "/react_fullstack/static/js/2.ce841361.chunk.js",
+    "static/js/2.ce841361.chunk.js.map": "/react_fullstack/static/js/2.ce841361.chunk.js.map",
+    "index.html": "/react_fullstack/index.html",
+    "precache-manifest.c5ee97e18cc3df29cabc4d814fe90570.js": "/react_fullstack/precache-manifest.c5ee97e18cc3df29cabc4d814fe90570.js",
+    "service-worker.js": "/react_fullstack/service-worker.js",
+    "static/js/2.ce841361.chunk.js.LICENSE": "/react_fullstack/static/js/2.ce841361.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.68e678a9.js",
+    "static/js/runtime-main.1d47a226.js",
     "static/js/2.ce841361.chunk.js",
-    "static/js/main.41b61465.chunk.js"
+    "static/js/main.a3bed7a3.chunk.js"
   ]
 }
