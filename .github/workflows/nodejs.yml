@@ -20,12 +20,12 @@ jobs:
     - name: npm install, build, and test
       run: |
         cd backend
-        npm ci
+        npm install
         cd ..
         cd client
-        npm ci
+        npm install
         cd ..
-        npm ci
+        npm install
         npm run start --if-present
         npm test
       env:
